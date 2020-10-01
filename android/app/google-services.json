@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305351142495",
+    "firebase_url": "https://smat-flowmac.firebaseio.com",
+    "project_id": "smat-flowmac",
+    "storage_bucket": "smat-flowmac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305351142495:android:3c187f2126b652db937fea",
+        "android_client_info": {
+          "package_name": "com.mohame.smart_flowmac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305351142495-n8tiq8ba0gg2pmob1ecfeo4oqfjt2mpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk1qxCvW-GV0rBr4hamUS_HVS2k73kaNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305351142495-n8tiq8ba0gg2pmob1ecfeo4oqfjt2mpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
